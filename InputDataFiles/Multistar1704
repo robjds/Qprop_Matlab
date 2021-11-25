@@ -1,0 +1,9 @@
+Test Motor 155grams45A
+1
+
+ 
+0.405    ! Rmotor (Ohms)
+ 
+0.5    ! Io     (Amps)
+ 
+2300   ! Kv     (rpm/Volt)

@@ -1,0 +1,9 @@
+Test Motor 18grams10A
+1
+
+ 
+0.212    ! Rmotor (Ohms)
+ 
+0.4    ! Io     (Amps)
+ 
+2400   ! Kv     (rpm/Volt)

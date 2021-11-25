@@ -1,0 +1,9 @@
+Test Motor 22grams12A
+1
+
+ 
+0.573    ! Rmotor (Ohms)
+ 
+0.2    ! Io     (Amps)
+ 
+1400   ! Kv     (rpm/Volt)

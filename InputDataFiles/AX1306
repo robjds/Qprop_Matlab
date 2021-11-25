@@ -1,0 +1,9 @@
+Test Motor 8grams6A
+1
+
+ 
+0.88    ! Rmotor (Ohms)
+ 
+0.4    ! Io     (Amps)
+ 
+2200   ! Kv     (rpm/Volt)
